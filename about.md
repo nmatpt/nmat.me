@@ -15,7 +15,7 @@ title: About me
   My name is Nuno Teixeira. I am a Software Engineer with over 5 years of professional experience. I am currently working as a remote freelancer so feel free to <a href="mailto:{{ site.email-address }}" title="Email">contact me</a> if you are looking for a developer that can get things done.
 </p>
 <p>
-    I am specialized in backend development for web applications and my language of choice is Scala. Here are some of the areas I am more knowledgeable in:
+    I specialize in backend development for web applications and my language of choice is Scala. Here are some of the areas I am more knowledgeable in:
     <ul>
     <li>Scala, Java, Play Framework, Akka</li>
     <li>PostgreSQL, MySQL, Redis</li>
