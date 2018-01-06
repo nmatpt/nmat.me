@@ -4,7 +4,7 @@ title:               Casual Snippets
 tagline:             'insights on software development'
 url:                 https://nmatpt.com
 baseurl:             ''
-paginate:            5
+paginate:            10
 permalink:           blog/:year/:month/:day/:title/
 
 # About/contact
